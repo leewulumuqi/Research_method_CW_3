@@ -1,0 +1,122 @@
+﻿const generatedBibEntries = {
+    "Cai2024BPaCo": {
+        "author": "Cai, Zhiyuan and Wei, Tianyunxi and Lin, Li and Chen, Hao and Tang, Xiaoying",
+        "booktitle": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024",
+        "doi": "10.1007/978-3-031-72378-0_36",
+        "keywords": "BPaCo, balanced parametric contrastive learning, contrastive learning, long-tailed learning, medical image classification",
+        "pages": "383--393",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "BPaCo: Balanced Parametric Contrastive Learning for Long-Tailed Medical Image Classification",
+        "type": "inproceedings",
+        "volume": "15001",
+        "year": "2024"
+    },
+    "Galdran2021BalancedMixUp": {
+        "author": "Galdran, Adrian and Carneiro, Gustavo and Gonz{\\'a}lez Ballester, Miguel A.",
+        "booktitle": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2021",
+        "doi": "10.1007/978-3-030-87240-3_31",
+        "keywords": "medical image classification, class imbalance, augmentation, MixUp, sampling",
+        "pages": "323--333",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "Balanced-MixUp for Highly Imbalanced Medical Image Classification",
+        "type": "inproceedings",
+        "volume": "12905",
+        "year": "2021"
+    },
+    "Holste2022LongTailCXR": {
+        "author": "Holste, Gregory and Wang, Song and Jiang, Ziyu and Shen, Thomas C. and Shih, George and Summers, Ronald M. and Peng, Yifan and Wang, Zhangyang",
+        "booktitle": "Data Augmentation, Labelling, and Imperfections",
+        "doi": "10.1007/978-3-031-17027-0_3",
+        "keywords": "chest X-ray, benchmark, long-tailed classification, thorax disease, medical imaging",
+        "pages": "22--32",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "Long-Tailed Classification of Thorax Diseases on Chest X-Ray: A New Benchmark Study",
+        "type": "inproceedings",
+        "year": "2022"
+    },
+    "Holste2024CXRLT": {
+        "author": "Holste, Gregory and Zhou, Yiliang and Wang, Song and Jaiswal, Ajay and Lin, Mingquan and Zhuge, Sherry and Yang, Yuzhe and others",
+        "doi": "10.1016/j.media.2024.103224",
+        "journal": "Medical Image Analysis",
+        "keywords": "chest X-ray, CXR-LT, benchmark, multi-label classification, long-tailed learning",
+        "pages": "103224",
+        "title": "Towards Long-Tailed, Multi-Label Disease Classification from Chest X-Ray: Overview of the CXR-LT Challenge",
+        "type": "article",
+        "volume": "97",
+        "year": "2024"
+    },
+    "Ju2022FlexibleSampling": {
+        "author": "Ju, Lie and Wu, Yicheng and Wang, Lin and Yu, Zhen and Zhao, Xin and Wang, Xin and Bonnington, C. Paul and Ge, Zongyuan",
+        "booktitle": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022",
+        "doi": "10.1007/978-3-031-16434-7_48",
+        "keywords": "skin lesion classification, flexible sampling, long-tailed learning, class imbalance, medical imaging",
+        "pages": "462--471",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "Flexible Sampling for Long-Tailed Skin Lesion Classification",
+        "type": "inproceedings",
+        "year": "2022"
+    },
+    "Li2022FlatAware": {
+        "author": "Li, Jinpeng and Chen, Guangyong and Mao, Hangyu and Deng, Danruo and Li, Dong and Hao, Jianye and Dou, Qi and Heng, Pheng-Ann",
+        "booktitle": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022",
+        "doi": "10.1007/978-3-031-16437-8_21",
+        "keywords": "medical image classification, imbalanced learning, distillation, flatness-aware optimization, long-tailed learning",
+        "pages": "217--226",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "Flat-Aware Cross-Stage Distilled Framework for Imbalanced Medical Image Classification",
+        "type": "inproceedings",
+        "year": "2022"
+    },
+    "Pan2023Combat": {
+        "author": "Pan, Li and Zhang, Yupei and Yang, Qiushi and Li, Tan and Chen, Zhen",
+        "booktitle": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023",
+        "doi": "10.1007/978-3-031-43987-2_2",
+        "keywords": "relation-aware consistency, virtual feature compensation, medical classification, long-tailed learning, representation learning",
+        "pages": "14--23",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "Combat Long-Tails in Medical Classification with Relation-Aware Consistency and Virtual Features Compensation",
+        "type": "inproceedings",
+        "year": "2023"
+    },
+    "Pan2025LMD": {
+        "author": "Pan, Li and Zhang, Yupei and Yang, Qiushi and Li, Tan and Chen, Zhen",
+        "doi": "10.1016/j.compbiomed.2025.109772",
+        "journal": "Computers in Biology and Medicine",
+        "keywords": "long-tailed medical diagnosis, relation-aware representation learning, classifier calibration, virtual features, medical image classification",
+        "pages": "109772",
+        "title": "Long-Tailed Medical Diagnosis with Relation-Aware Representation Learning and Iterative Classifier Calibration",
+        "type": "article",
+        "volume": "188",
+        "year": "2025"
+    },
+    "Yang2022ProCo": {
+        "author": "Yang, Zhixiong and Pan, Junwen and Yang, Yanzhan and Shi, Xiaozhou and Zhou, Hong-Yu and Zhang, Zhicheng and Bian, Cheng",
+        "booktitle": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2022",
+        "doi": "10.1007/978-3-031-16452-1_17",
+        "keywords": "ProCo, prototype-aware contrastive learning, representation learning, long-tailed learning, medical image classification",
+        "pages": "173--182",
+        "publisher": "Springer",
+        "series": "Lecture Notes in Computer Science",
+        "title": "ProCo: Prototype-Aware Contrastive Learning for Long-Tailed Medical Image Classification",
+        "type": "inproceedings",
+        "year": "2022"
+    },
+    "Zhang2023Survey": {
+        "author": "Zhang, Yifan and Kang, Bingyi and Hooi, Bryan and Yan, Shuicheng and Feng, Jiashi",
+        "doi": "10.1109/TPAMI.2023.3268118",
+        "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "keywords": "survey, long-tailed learning, deep learning, class imbalance, computer vision",
+        "number": "9",
+        "pages": "10795--10816",
+        "title": "Deep Long-Tailed Learning: A Survey",
+        "type": "article",
+        "volume": "45",
+        "year": "2023"
+    }
+};
